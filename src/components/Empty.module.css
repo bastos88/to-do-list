@@ -1,0 +1,58 @@
+.emptyContainer {
+    max-width: 48rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    border-top: 1px solid var(--gray-300);
+    border-radius: 8px;
+}
+
+.emptyContainer img {
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+}
+
+.emptyclip p {
+    color: var(--gray-300);
+    text-align: center;
+    font-weight: bold;
+    font-size: 1rem;
+    max-width: 30rem;
+    line-height: 1.4;
+}
+.emptyclip span {
+    text-align: center;
+}
+@media (max-width: 768px) {
+    .emptyContainer {
+        padding: 1rem;
+    }
+
+    .emptyContainer svg {
+        display: block;
+        margin: 0 auto;
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .emptyclip p {
+        font-size: 0.875rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .emptyContainer {
+        padding: 0.5rem;
+    }
+
+    .emptyContainer svg {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    .emptyclip p {
+        font-size: 0.75rem;
+    }
+}
