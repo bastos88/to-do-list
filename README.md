@@ -12,6 +12,8 @@ este To-Do List ajuda você a organizar melhor suas atividades e aumentar sua pr
 
 
 🛠️ Tecnologias
+
+
 React
 
 React Router
