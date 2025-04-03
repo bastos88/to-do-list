@@ -9,14 +9,10 @@ Uma aplicação simples e eficiente para gerenciar suas tarefas diárias. Com um
 este To-Do List ajuda você a organizar melhor suas atividades e aumentar sua produtividade.
 
 
-
-
-
 🚀 Funcionalidades
 ✅ Adicionar novas tarefas
 ✅ Marcar tarefas como concluídas
 ✅ Selecionar e excluir tarefas
-
 
 
 
