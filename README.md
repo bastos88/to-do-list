@@ -6,25 +6,26 @@
 O To-Do List é uma aplicação simples e eficiente para gerenciar suas tarefas diárias. Com uma interface intuitiva e funcionalidades úteis, ele ajuda você a organizar melhor suas atividades e aumentar sua produtividade.
 
 ✨ Funcionalidades
-✅ Adicionar novas tarefas
-✅ Marcar tarefas como concluídas
-✅ Selecionar e excluir tarefas
-✅ Interface responsiva e fácil de usar
+
+##✅ Adicionar novas tarefas
+##✅ Marcar tarefas como concluídas
+##✅ Selecionar e excluir tarefas
+##✅ Interface responsiva e fácil de usar
 
 🛠️ Tecnologias utilizadas
 O projeto foi desenvolvido com as seguintes tecnologias:
 
-React – Biblioteca para construção de interfaces interativas.
+##React – Biblioteca para construção de interfaces interativas.
 
-Vite – Ferramenta moderna e rápida para o build do projeto.
+##Vite – Ferramenta moderna e rápida para o build do projeto.
 
-React Router – Gerenciamento de rotas na aplicação.
+##React Router – Gerenciamento de rotas na aplicação.
 
-Styled Components – Estilização dos componentes de forma dinâmica.
+##Styled Components – Estilização dos componentes de forma dinâmica.
 
 📌 Como executar o projeto
 🔹 Pré-requisitos
-Antes de iniciar, certifique-se de ter o Node.js e um gerenciador de pacotes (npm ou yarn) instalados.
+##Antes de iniciar, certifique-se de ter o Node.js e um gerenciador de pacotes (npm ou yarn) instalados.
 
 
 
