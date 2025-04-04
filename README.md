@@ -7,10 +7,10 @@ O To-Do List é uma aplicação simples e eficiente para gerenciar suas tarefas 
 
 ✨ Funcionalidades
 
-##✅ Adicionar novas tarefas
-##✅ Marcar tarefas como concluídas
-##✅ Selecionar e excluir tarefas
-##✅ Interface responsiva e fácil de usar
+###✅ Adicionar novas tarefas
+###✅ Marcar tarefas como concluídas
+###✅ Selecionar e excluir tarefas
+###✅ Interface responsiva e fácil de usar
 
 🛠️ Tecnologias utilizadas
 O projeto foi desenvolvido com as seguintes tecnologias:
