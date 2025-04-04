@@ -46,8 +46,4 @@ Para executar este projeto, você precisará apenas de:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/bastos88/to-do-list.git 
-
-
-
-
+   git clone https://github.com/bastos88/to-do-list.git
