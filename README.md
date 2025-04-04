@@ -1,31 +1,52 @@
-![To-Do List](https://img.freepik.com/fotos-gratis/caderno-plano-com-lista-de-tarefas-na-mesa_23-2148938726.jpg)
+![To-Do List]([https://img.freepik.com/fotos-gratis/caderno-plano-com-lista-de-tarefas-na-mesa_23-2148938726.jpg](https://img.freepik.com/vetores-gratis/para-fazer-a-lista-ilustracao-do-conceito_114360-2498.jpg?t=st=1743773241~exp=1743776841~hmac=ace88311a5e520fefc8307c30f79ce85009bea68ce8348ab1052c60323d84432&w=300)
 
 
 
 📝 Sobre o projeto
 O To-Do List é uma aplicação simples e eficiente para gerenciar suas tarefas diárias. Com uma interface intuitiva e funcionalidades úteis, ele ajuda você a organizar melhor suas atividades e aumentar sua produtividade.
 
-✨ Funcionalidades
 
-###✅ Adicionar novas tarefas
-###✅ Marcar tarefas como concluídas
-###✅ Selecionar e excluir tarefas
-###✅ Interface responsiva e fácil de usar
 
-🛠️ Tecnologias utilizadas
+## 🛠️Stack utilizada
+
+**Front-end:** 
+
 O projeto foi desenvolvido com as seguintes tecnologias:
 
-##React – Biblioteca para construção de interfaces interativas.
+React – Biblioteca para construção de interfaces interativas e componentes reutilizáveis.
 
-##Vite – Ferramenta moderna e rápida para o build do projeto.
+Vite – Ferramenta moderna e rápida para o build do projeto.
 
-##React Router – Gerenciamento de rotas na aplicação.
+Styled Components – Estilização dos componentes de forma dinâmica.
 
-##Styled Components – Estilização dos componentes de forma dinâmica.
 
-📌 Como executar o projeto
-🔹 Pré-requisitos
-##Antes de iniciar, certifique-se de ter o Node.js e um gerenciador de pacotes (npm ou yarn) instalados.
+
+## ✨ Funcionalidades
+
+
+✅ Adicionar novas tarefas
+
+✅ Marcar tarefas como concluídas
+
+✅ Selecionar e excluir tarefas
+
+✅ Interface responsiva e fácil de usar
+
+
+## Instalação
+
+### 💻 Pré-requisitos
+
+Para executar este projeto, você precisará apenas de:
+
+- Um navegador moderno (Google Chrome, Firefox, Edge, etc.)
+- Editor de código (opcional, mas recomendado: VS Code)
+
+### 📦 Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/bastos88/to-do-list.git 
 
 
 
