@@ -1,6 +1,6 @@
-<div align="center">
-   ![To-Do List](https://img.freepik.com/vetores-gratis/para-fazer-a-lista-ilustracao-do-conceito_114360-2498.jpg?&w=300)
-</div>
+
+ ![To-Do List](https://img.freepik.com/vetores-gratis/para-fazer-a-lista-ilustracao-do-conceito_114360-2498.jpg?&w=300)
+
 
 
 
